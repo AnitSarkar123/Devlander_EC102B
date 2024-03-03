@@ -118,14 +118,14 @@ input ::placeholder {
     height: calc(100% - 10vh);
 }
 
-#leftportion {
+#hero #leftportion {
     display: flex;
     flex-direction: column;
-    gap: 20px;
+    gap: 80px;
     height: 80%;
 }
 
-#leftportion button {
+#hero #leftportion button {
     padding: 20px 30px 20px 30px;
     border: none;
     border-radius: 40px;
