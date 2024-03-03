@@ -18,6 +18,7 @@ h3{
     margin: 50px 0;
 }
 .content{
+    width: 400px;
     margin: 15px;
     box-sizing: border-box;
     float: left;
