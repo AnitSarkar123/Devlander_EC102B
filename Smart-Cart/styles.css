@@ -22,6 +22,7 @@ html {
 
 nav {
     /* overflow: hidden; */
+    z-index: 40;
     display: flex;
     flex-direction: row;
     justify-content: space-around;
