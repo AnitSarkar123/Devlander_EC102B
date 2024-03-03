@@ -5,12 +5,14 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css">
+
     <link rel="stylesheet" href="./style.css">
     <link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet">
     <title>Login landing page</title>
 </head>
 
 <body>
+
     <section class="side">
         <img src="./images/SMAT-CART.png" alt="">
     </section>
@@ -23,7 +25,7 @@
             <p class="welcome-message">Please, provide login credential to proceed and have access to all our services
             </p>
 
-            <form class="login-form">
+            <form class="login-form" action="#" method="post" onsubmit="redirectToOtherPage(); return false;">
                 <div class="form-control">
                     <input type="text" placeholder=" Enter Your Username">
                     <i class="fas fa-user"></i>
@@ -33,10 +35,17 @@
                     <i class="fas fa-lock"></i>
                 </div>
 
-                <button class="submit">Login</button>
+                <button class="submit" type="submit">Log In</button>
             </form>
         </div>
     </section>
+
+    <script>
+        function redirectToOtherPage() {
+            // Redirect to another HTML page
+            window.location.href = '../index.html';
+        }
+    </script>
 
 </body>
 

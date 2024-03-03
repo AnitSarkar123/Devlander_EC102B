@@ -21,11 +21,12 @@
         <div class="login-container">
             <p class="title">Create Your Account </p>
             <div class="separator"></div>
-            <p class="welcome-message">Please, provide all of requred credential to proceed and have access to all our
+            <p class="welcome-message">Please, provide all of the required credentials to proceed and have access to all
+                our
                 services
             </p>
 
-            <form class="login-form">
+            <form class="login-form" action="#" method="post" onsubmit="redirectToOtherPage(); return false;">
                 <div class="form-control">
                     <input type="text" placeholder="Enter Username">
                     <i class="fas fa-user"></i>
@@ -43,10 +44,17 @@
                     <i class="fas fa-lock"></i>
                 </div>
 
-                <button class="submit">Sign Up</button>
+                <button class="submit" type="submit">Sign Up</button>
             </form>
         </div>
     </section>
+
+    <script>
+        function redirectToOtherPage() {
+            // Redirect to another HTML page
+            window.location.href = '../index.html';
+        }
+    </script>
 
 </body>
 
