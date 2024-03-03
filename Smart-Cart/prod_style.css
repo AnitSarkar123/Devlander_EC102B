@@ -19,7 +19,8 @@ h3{
 }
 .content{
     width: 400px;
-    margin: 15px;
+    height: 381px;
+    margin: 18px;
     box-sizing: border-box;
     float: left;
     text-align: center;
