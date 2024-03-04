@@ -97,6 +97,7 @@ input ::placeholder {
     font-size: 17px;
     border: none;
     cursor: pointer;
+    width: fit-content;
 }
 
 .account-options {
@@ -306,7 +307,7 @@ input ::placeholder {
         margin-top: 15px;
         margin-right: 20px;
         margin-bottom: 10px;
-        background: transparent;
+        background: #95c77f;
         font-size: 17px;
         border: none;
         cursor: pointer;
@@ -443,5 +444,5 @@ input ::placeholder {
         display: inline-block;
         padding-left: 60px;
     }
-
+    
 }
