@@ -1,6 +1,5 @@
 <!-- ![alt text](logo.png) -->
-
-# Project ID - EC102B
+# Project ID - EC102B (DevWrap_EC102B)
 ## **SMART CART - A VIRTUAL SHOP 😎**
 
 >***Introduction 📌***
