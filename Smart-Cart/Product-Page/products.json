@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "name": "Samsung Galaxy S21 5G Mobile",
+    "price": "29,999",
+    "image": "image/galaxys21.png",
+    "lstar5": "fa fa-star",
+    "lstar4": "fa fa-star checked"
+  },
+  {
+    "id": 2,
+    "name": " Redmi note 13 Pro 5G Mobile",
+    "price": "25,999",
+    "image": "image/redminote13pro.png",
+    "lstar5": "fa fa-star ",
+    "lstar4": "fa fa-star checked"
+  },
+  {
+    "id": 3,
+    "name": " Apple Iphone 15 Mobile",
+    "price": "72,999",
+    "image": "image/iphone15.png",
+    "lstar5": "fa fa-star checked",
+    "lstar4": "fa fa-star checked "
+  },
+  {
+    "id": 4,
+    "name": " DELL Intel Core i5 12gen 1235U Laptop",
+    "price": "44,990",
+    "image": "image/dell.png",
+    "lstar5": "fa fa-star",
+    "lstar4": "fa fa-star "
+  },
+  {
+    "id": 5,
+    "name": " HP Victus AMD Ryzen 5 5600H Laptop",
+    "price": "60,990",
+    "image": "image/hpvictus.png",
+    "lstar5": "fa fa-star",
+    "lstar4": "fa fa-star checked"
+  },
+  {
+    "id": 6,
+    "name": " Adidas Fleecewalk Walking Shoes",
+    "price": "1,568",
+    "image": "image/adidas.png",
+    "lstar5": "fa fa-star",
+    "lstar4": "fa fa-star "
+  },
+  {
+    "id": 7,
+    "name": " MADAME A-line Purple Dress",
+    "price": "2,399",
+    "image": "image/madame.png",
+    "lstar5": "fa fa-star",
+    "lstar4": "fa fa-star checked"
+  },
+  {
+    "id": 8,
+    "name": " Luxify scent Gucci flora Perfume Dress",
+    "price": "2,399",
+    "image": "image/gucci.png",
+    "lstar5": "fa fa-star checked",
+    "lstar4": "fa fa-star checked"
+  }
+]
