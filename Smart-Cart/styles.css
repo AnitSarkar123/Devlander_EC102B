@@ -12,16 +12,16 @@ body,
 html {
     height: 100%;
     width: 100%;
-    /* background-color: #F28482; */
-    /* font-family: Montserrat; */
-    /* display: flex;
+     background-color: #F28482;
+    font-family: Montserrat;
+    display: flex;
     justify-content: center;
-    align-items: center; */
-    /* min-height: 100vh; */
+    align-items: center;
+    /* min-height: 100vh;*/
 }
 
 nav {
-    /* overflow: hidden; */
+    overflow: hidden; 
     z-index: 40;
     display: flex;
     flex-direction: row;
@@ -444,5 +444,5 @@ input ::placeholder {
         display: inline-block;
         padding-left: 60px;
     }
-    
+
 }

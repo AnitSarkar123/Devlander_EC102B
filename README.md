@@ -65,6 +65,21 @@ To deploy the project run
   https://devlander-ec-102-b.vercel.app/
 ```
 
+## **Features**
+
+.There are some functionality added to the navigation bar buttons like
+
+1. Products Tab will lead you to the products section where you can choose from the products you want..!
+
+2. About Tab will lead you to the section where you can know us much better and also you can subscribe to our weekly newsletter there..!
+
+3. Contact Tab will lead you to a form where you can fill up some details and reach out to us regarding any problems, queries or just for feedback..!
+
+4. Add to Cart option will help you add products to your cart..!
+
+5. By clicking user tab you can see a drop down menu where users can either login to their account or sign up for new users..!
+
+So What are you waiting for...!
 ## Let's start Shopping 😎
 
 ---
