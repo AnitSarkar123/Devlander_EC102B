@@ -1,4 +1,4 @@
-![alt text](logo.png)
+<!-- ![alt text](logo.png) -->
 
 ## **SMART CART - A VIRTUAL SHOP 😎**
 
@@ -49,7 +49,7 @@ option.
 
 ## **Contributors** ✨
 
-Gratitude is extended to these amazing individuals 💜
+.  Gratitude is extended to these amazing individuals 💜
 
 - Anit Sarkar
 
@@ -57,6 +57,12 @@ Gratitude is extended to these amazing individuals 💜
 
 - Sourik Banerjee
 
+## **Deployment**
+. This Project is deployed in Vercel
+To deploy the project run
+```bash
+  https://devlander-ec-102-b.vercel.app/
+```
 
 ## Let's start Shopping 😎
 
