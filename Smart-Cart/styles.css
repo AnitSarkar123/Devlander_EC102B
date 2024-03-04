@@ -12,18 +12,18 @@ body,
 html {
     height: 100%;
     width: 100%;
-     background-color: #F28482;
+    background-color: #F28482;
     font-family: Montserrat;
     display: flex;
     justify-content: center;
     align-items: center;
-    /* min-height: 100vh;*/
+    min-height: 100vh;
 }
 
 nav {
-    overflow: hidden; 
+    /* overflow: hidden; */
     z-index: 40;
-    display: flex;
+    /* display: flex; */
     flex-direction: row;
     justify-content: space-around;
     align-items: center;
