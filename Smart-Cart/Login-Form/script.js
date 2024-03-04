@@ -24,12 +24,11 @@ Shery.makeMagnet(".submit" /* Element to target.*/, {
     duration: 1,
 });
 Shery.imageEffect(".side", {
-    style: 3,
+    style: 6,
     /*optional parameters
     these parameter dose not applies to custom scroll trigger callback */
     scrollSnapping: true,
-    scrollSpeed: 3,
+    scrollSpeed: 1.01,
     touchSpeed: 1,
-    damping: 5,
+    damping: 3,
 });
-

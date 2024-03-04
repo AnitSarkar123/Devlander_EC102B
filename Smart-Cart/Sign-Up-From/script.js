@@ -29,7 +29,7 @@ Shery.imageEffect(".side", {
     /*optional parameters
     these parameter dose not applies to custom scroll trigger callback */
     scrollSnapping: true,
-    scrollSpeed: 3,
+    scrollSpeed: 1.1,
     touchSpeed: 1,
-    damping: 5,
+    damping: 3,
 });

@@ -22,9 +22,9 @@ section {
 
 
 .side img {
-    width: 75%;
-    max-width: 80%;
-    height: 80%;
+    width: 55vw;
+    /* max-width: 80%; */
+    height: 60vw;
 }
 
 .login-container {
