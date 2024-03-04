@@ -59,6 +59,7 @@ option.
 
 ## **Deployment**
 . This Project is deployed in Vercel
+
 To deploy the project run
 ```bash
   https://devlander-ec-102-b.vercel.app/
