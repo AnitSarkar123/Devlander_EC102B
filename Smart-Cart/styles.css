@@ -12,7 +12,7 @@ body,
 html {
     height: 100%;
     width: 100%;
-    background-color: #F28482;
+    background-color: #1e55cce3;
     font-family: Montserrat;
     display: flex;
     justify-content: center;
@@ -41,13 +41,13 @@ nav ul li {
     list-style: none;
     font-size: larger;
     font-weight: 600;
-    color: #F28482;
+    color: #c93633;
 }
 
 nav a {
     /* float: left; */
     display: inline-block;
-    color: white;
+    color: rgb(202, 71, 71);
     text-align: center;
     padding: 14px 20px;
     text-decoration: none;
@@ -116,7 +116,7 @@ input ::placeholder {
     margin: 0 auto;
     height: 90vh;
     width: 90%;
-    background-color: #F7EDE2;
+    background-color: #b0e0ee;
     border-radius: 15px;
 }
 
@@ -138,7 +138,7 @@ input ::placeholder {
     padding: 20px 30px 20px 30px;
     border: none;
     border-radius: 40px;
-    background-color: #F6BD60;
+    background-color: #93ac4f;
     font-family: Montserrat;
     font-weight: 800;
     text-transform: uppercase;
@@ -147,53 +147,22 @@ input ::placeholder {
     text-align: center;
     font-size: larger;
     cursor: pointer;
+    box-shadow: #918a8a;
 }
 
 #title {
     font-family: "Madimi One", sans-serif;
     font-size: 64px;
     font-weight: 800;
-    color: #F28482;
+    color: #008d7ad0;
 }
 
 #text {
     text-transform: uppercase;
     font-family: "Anton", sans-serif;
     font-size: 24px;
-    color: #F6BD60;
+    color: #7e0beb83;
 }
-
-/* #choose-card {
-    background-color: #84a59d6b;
-    height: 70px;
-    width: 200px;
-    border-radius: 20px;
-    padding: 20px;
-}
-
-#choose-card span {
-    color: #84A59D;
-    font-weight: 800;
-}
-
-#choose-card div {
-    display: flex;
-    flex-direction: row;
-    gap: 5px;
-    margin-top: 10px;
-}
-
-#choose-card div svg {
-    padding: 10px;
-    background-color: #84a59d6e;
-    border-radius: 50%;
-}
-
-#choose-card div span {
-    padding: 10px;
-    background-color: #F7EDE2;
-    border-radius: 30%;
-} */
 
 #rightportion figure {
     width: 420px;
@@ -219,12 +188,7 @@ input ::placeholder {
     width: 60px;
 }
 
-/* .bottom { */
-/* height: 20px;
-    width: 20px; */
-/* display: inline-block; */
-/* padding-left: 200px; */
-/* } */
+
 
 @media screen and (max-width:550px) {
     body {
