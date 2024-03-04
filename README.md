@@ -10,9 +10,12 @@
 
 ## Technologies Used 🚀
 
-1. ![alt text](<html (1).png>)
+1. HTML5
+2. CSS3
+3. JavaScript
+<!-- 1. ![alt text](<html (1).png>)
 2. ![alt text](css.jpeg)
-3. ![alt text](javascript.jpg)
+3. ![alt text](javascript.jpg) -->
 
 ## **Getting Started**
 
@@ -42,11 +45,11 @@ option.
 
 5. At last, We Sink Commit the Code , And Now You Can Place Your Order. 😎
 
-![alt text](banner.jpg)
+<!-- ![alt text](banner.jpg) -->
 
 ## **Contributors** ✨
 
-- Gratitude is extended to these amazing individuals 💜
+Gratitude is extended to these amazing individuals 💜
 
 - Anit Sarkar
 
