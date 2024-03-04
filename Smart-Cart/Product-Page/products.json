@@ -59,8 +59,78 @@
     "id": 8,
     "name": " Luxify scent Gucci flora Perfume Dress",
     "price": "2,399",
-    "image": "image/gucci.png",
-    "lstar5": "fa fa-star checked",
-    "lstar4": "fa fa-star checked"
+    "image": "image/gucci.png"
+  },
+  {
+    "id": 9,
+    "name": " MI X-series 50inch Smart TV",
+    "price": "34,999",
+    "image": "image/mi.png"
+  },
+  {
+    "id": 10,
+    "name": " Vredevogul Women Silk Blend Kurta",
+    "price": "709",
+    "image": "image/vrede.png"
+  },
+  {
+    "id": 11,
+    "name": " Lavie Women Black Satchel",
+    "price": "1,349",
+    "image": "image/lavie.png"
+  },
+  {
+    "id": 12,
+    "name": " Women Striped Cotton Blend Straight Kurta",
+    "price": "879",
+    "image": "image/libas.png"
+  },
+  {
+    "id": 13,
+    "name": " KILLER Men Slim Mid Rise Black Jeans",
+    "price": "1,249",
+    "image": "image/killer.png"
+  },
+  {
+    "id": 14,
+    "name": " PETER ENGLAND Men Slim Mid Rise Blue Jeans",
+    "price": "1,281",
+    "image": "image/petereng.png"
+  },
+  {
+    "id": 15,
+    "name": " U.S. POLO ASSN. Men Regular Fit Printed Spread Collar Casual Shirt",
+    "price": "919",
+    "image": "image/uspolo.png"
+  },
+  {
+    "id": 16,
+    "name": " Allen Solly Men Slim Fit Printed Casual Shirt",
+    "price": "878",
+    "image": "image/allensolly.png"
+  },
+  {
+    "id": 17,
+    "name": " NIKON Z6II-24-120MM DSLR Camera 24-120MM",
+    "price": "2,15,990",
+    "image": "image/nikon.png"
+  },
+  {
+    "id": 18,
+    "name": " AMAZFIT GTR 2 Bluetooth Smartwatch ",
+    "price": "5,999",
+    "image": "image/amazfit.png"
+  },
+  {
+    "id": 19,
+    "name": " Canon R100 Mirrorless Camera RF-S 18-45mm f/4.5-6.3 IS STM",
+    "price": "47,990",
+    "image": "image/canon.png"
+  },
+  {
+    "id": 20,
+    "name": " KADENCE Wanderer Series Brown Mahogany wood Ukulele",
+    "price": "2,199",
+    "image": "image/ukulele.png"
   }
 ]
