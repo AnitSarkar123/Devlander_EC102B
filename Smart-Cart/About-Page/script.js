@@ -14,7 +14,7 @@ Shery.makeMagnet(".flex h3" /* Element to target.*/, {
     ease: "cubic-bezier(0.23, 1, 0.320, 1)",
     duration: 1,
 });
-Shery.makeMagnet(".flex div" /* Element to target.*/, {
+Shery.makeMagnet(".flex div a" /* Element to target.*/, {
     //Parameters are optional.
     ease: "cubic-bezier(0.23, 1, 0.320, 1)",
     duration: 1,
