@@ -1,3 +1,5 @@
+
+
 let listProductHTML = document.querySelector('.gallery');
 let listCartHTML = document.querySelector('.listCart');
 let iconCart = document.querySelector('.icon-cart');
@@ -242,3 +244,30 @@ const initApp = () => {
         })
 }
 initApp();
+Shery.mouseFollower({
+    //Parameters are optional.
+    skew: true,
+    ease: "cubic-bezier(0.23, 1, 0.320, 1)",
+    duration: 0.5,
+});
+Shery.makeMagnet(" .gallery " /* Element to target.*/, {
+    //Parameters are optional.
+    ease: "cubic-bezier(0.23, 1, 0.320, 1)",
+    duration: 1,
+});
+
+Shery.makeMagnet(" .carTab h1 " /* Element to target.*/, {
+    //Parameters are optional.
+    ease: "cubic-bezier(0.23, 1, 0.320, 1)",
+    duration: 1,
+});
+Shery.makeMagnet(" .carTab .close " /* Element to target.*/, {
+    //Parameters are optional.
+    ease: "cubic-bezier(0.23, 1, 0.320, 1)",
+    duration: 1,
+});
+Shery.makeMagnet(" .carTab .Checkout " /* Element to target.*/, {
+    //Parameters are optional.
+    ease: "cubic-bezier(0.23, 1, 0.320, 1)",
+    duration: 1,
+});
